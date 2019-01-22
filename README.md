@@ -1,4 +1,5 @@
-#Laravel Docker
+# Laravel Docker
 
-Laravel docker est un projet qui permet de dckeriser un projet laravel
-:warning: Ce projet est en cours de développement. 
+:warning: Ce projet est en cours de développement.
+
+Laravel docker est un projet qui permet de dockeriser un projet laravel.
